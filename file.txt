@@ -1,0 +1,19 @@
+
+saniya
+# Title
+
+This is a fixed template for your file.
+
+## Section 1
+
+Provide details for Section 1.
+
+## Section 2
+
+Add information for Section 2.
+
+## Section 3
+
+Include content for Section 3.
+
+saniya
